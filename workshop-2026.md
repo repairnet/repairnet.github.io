@@ -13,7 +13,7 @@ title: French-Korean Systems Biology Workshop, 1st edition
 
 The workshop aims at making connections between the French and Korean scientific communities in mathematical and computational methods for systems biology, with applications to cancer research.
 
-The program consists both of scientific talks related to mathematical and computational models in systems biology, with a focus on logical models for cancer research, as well as presentations of international funding schemes to promote French-Korean scientific cooperation in this domain.
+The program consists both in scientific talks related to mathematical and computational models in systems biology, with a focus on logical models for cancer research, as well as in presentations of international funding schemes to promote French-Korean scientific cooperation in this domain.
 
 ### Program overview
 
