@@ -7,7 +7,7 @@ title: French-Korean Systems Biology Workshop, 1st edition
 
 📍 Location: French Embassy, Seoul
 
-✍️ Registration: *coming soon*
+✍️ Registration (mandatory): *coming soon*
 
 ### Scope and objectives
 
