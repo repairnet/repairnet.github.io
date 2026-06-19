@@ -20,17 +20,23 @@ The program consists both of scientific talks related to mathematical and comput
 The workshop will take place on Thursday 29 October 2026, from 9am to 4pm at the French Embassy in Seoul.
 
 Confirmed speakers:
-* 🇫🇷 **Laurence Calzone** (Institut Curie, Paris, Frace), *Systems biology of cancer*
+* 🇫🇷 **Laurence Calzone** (Institut Curie, Paris, Frace)\
+  *Systems biology of cancer*
   <br><br>
-* 🇫🇷 **Loïc Paulevé** (CNRS/LaBRI, Bordeaux, France; coPI of ANR-NRF REPAIRNET project), *Symbolic AI methods for systems biology*
+* 🇫🇷 **Loïc Paulevé** (CNRS/LaBRI, Bordeaux, France; coPI of ANR-NRF REPAIRNET project)\
+ *Symbolic AI methods for systems biology*
   <br><br>
-* 🇫🇷 **Élisabeth Rémy** (CNRS/I2M, Marseille, France), *Mathematical modeling for systems biology*
+* 🇫🇷 **Élisabeth Rémy** (CNRS/I2M, Marseille, France)\
+  *Mathematical modeling for systems biology*
   <br><br>
-* 🇰🇷 **Dongkwan Shin** (National Cancer Center, South Korea; coPI of ANR-NRF REPAIRNET project), *Dynamic modeling of cancer cells*
+* 🇰🇷 **Dongkwan Shin** (National Cancer Center, South Korea; coPI of ANR-NRF REPAIRNET project)\
+  *Dynamic modeling of cancer cells*
   <br><br>
-* 🇰🇷 **Kwang-Hyun Cho** (KAIST, South Korea), *Engineering methods for systems biology of cancer*
+* 🇰🇷 **Kwang-Hyun Cho** (KAIST, South Korea)\
+  *Engineering methods for systems biology of cancer*
   <br><br>
-* 🇪🇺 **Tomasz Wierzbowsk** ([EURAXESS Korea](http://korea.euraxess.org/)), *European funding schemes*
+* 🇪🇺 **Tomasz Wierzbowsk** ([EURAXESS Korea](http://korea.euraxess.org/))\
+  *European funding schemes*
 
 Final program to be published soon.
 
@@ -44,12 +50,6 @@ Final program to be published soon.
 
 ### Acknlowedgment
 
-<img src="logos/cnrs.png"  style="height: 3em">
-
-<img src="logos/french-embassy.png"  style="height: 3em">
-
-<img src="https://www.nrf.re.kr/resources/img/common/header/logo.svg"  style="height: 3em">
-
-<img src="https://bnediction.github.io/img/Logo-ANR-bleu-RVB.png#sponsor" style="height: 7em">
+<img src="logos/cnrs.png"  style="height: 3em">&nbsp; &nbsp;<img src="logos/french-embassy.png"  style="height: 3em">&nbsp; &nbsp;<img src="https://www.nrf.re.kr/resources/img/common/header/logo.svg"  style="height: 3em">&nbsp; &nbsp;<img src="https://bnediction.github.io/img/Logo-ANR-bleu-RVB.png#sponsor" style="height: 3em">
 
 
