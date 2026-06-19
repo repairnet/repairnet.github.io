@@ -42,7 +42,9 @@ Final program to be published soon.
 
 ### Venue
 
-French embassy
+⚠️ You will need to provide a formal identity document. **Registration is mandatory**.
+
+**French embassy**
 > 43-12 Seosomun-ro, Seodaemun-gu\
 > Seoul\
 > [Google Map](https://maps.app.goo.gl/C6d6wvSjKk4yjBpFA)\
