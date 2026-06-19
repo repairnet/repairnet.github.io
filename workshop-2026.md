@@ -40,6 +40,14 @@ Confirmed speakers:
 
 Final program to be published soon.
 
+### Venue
+
+> French embassy
+> 43-12 Seosomun-ro, Seodaemun-gu
+> Seoul
+> [Google Map](https://maps.app.goo.gl/C6d6wvSjKk4yjBpFA) 
+
+
 ### Organizing commitee
 
 * [Dongkwan Shin](https://ncc-gcsp.ac.kr/n_academics/shindongkwan.jsp?flag=22) (NCC, Goyang, South Korea)
@@ -48,7 +56,7 @@ Final program to be published soon.
 * [Elisabeth Rémy](https://remy.perso.math.cnrs.fr/) (CNRS/I2M, Marseille, France)
 * [Sébastien Codina](https://www.linkedin.com/in/sebastiencodina/?locale=fr) (French Embassy, Seoul, South Korea)
 
-### Acknlowedgment
+### Acknowledgment
 
 <img src="logos/cnrs.png"  style="height: 3em">&nbsp; &nbsp;<img src="logos/french-embassy.png"  style="height: 3em">&nbsp; &nbsp;<img src="https://www.nrf.re.kr/resources/img/common/header/logo.svg"  style="height: 3em">&nbsp; &nbsp;<img src="https://bnediction.github.io/img/Logo-ANR-bleu-RVB.png#sponsor" style="height: 3em">
 
