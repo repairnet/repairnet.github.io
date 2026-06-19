@@ -42,10 +42,11 @@ Final program to be published soon.
 
 ### Venue
 
-> French embassy
-> 43-12 Seosomun-ro, Seodaemun-gu
-> Seoul
-> [Google Map](https://maps.app.goo.gl/C6d6wvSjKk4yjBpFA) 
+French embassy
+> 43-12 Seosomun-ro, Seodaemun-gu\
+> Seoul\
+> [Google Map](https://maps.app.goo.gl/C6d6wvSjKk4yjBpFA)\
+> [Kakao Map](https://place.map.kakao.com/8509394)
 
 
 ### Organizing commitee
