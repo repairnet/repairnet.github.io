@@ -36,7 +36,10 @@ Confirmed speakers:
   *Engineering methods for systems biology of cancer*
   <br><br>
 * 🇪🇺 **Tomasz Wierzbowsk** ([EURAXESS Korea](http://korea.euraxess.org/))\
-  *European funding schemes*
+  *European funding schemes*\
+  <br>
+* **CNRS** Office for Japan, South Korea & Taiwan\
+  *France - North-East Asia cooperation programs*
 
 Final program to be published soon.
 
