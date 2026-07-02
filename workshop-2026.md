@@ -29,9 +29,12 @@ Confirmed speakers:
 * 🇫🇷 **Dr. Élisabeth Rémy** (CNRS/I2M, Marseille, France)\
   *Mathematical modeling for systems biology*
   <br><br>
-* 🇰🇷 **Prof. Dongkwan Shin** (National Cancer Center, South Korea; coPI of ANR-NRF REPAIRNET project)\
+* 🇰🇷 **Dr. Dongkwan Shin** (National Cancer Center, South Korea; coPI of ANR-NRF REPAIRNET project)\
   *Dynamic modeling of cancer cells*
   <br><br>
+* 🇰🇷 **Dr. Jonghyun Lee** (Division of Cancer Data Science, National Cancer Center, South Korea)  
+  *Single-cell genotype–phenotype mapping of cancer cell-fate trajectories*
+  <br><br>  
 * 🇰🇷 **Prof. Jung-Min Yang** (School of Electronics Engineering, Kyungpook National University, South Korea)\
   *Robust open-loop control for biological systems with logical models*\
   <br>
