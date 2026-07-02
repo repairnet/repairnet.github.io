@@ -20,20 +20,29 @@ The program consists both in scientific talks related to mathematical and comput
 The workshop will take place on Thursday 29 October 2026, from 9am to 4pm at the French Embassy in Seoul.
 
 Confirmed speakers:
-* 🇫🇷 **Laurence Calzone** (Institut Curie, Paris, Frace)\
+* 🇫🇷 **Dr. Laurence Calzone** (Institut Curie, Paris, Frace)\
   *Systems biology of cancer*
   <br><br>
-* 🇫🇷 **Loïc Paulevé** (CNRS/LaBRI, Bordeaux, France; coPI of ANR-NRF REPAIRNET project)\
+* 🇫🇷 **Dr. Loïc Paulevé** (CNRS/LaBRI, Bordeaux, France; coPI of ANR-NRF REPAIRNET project)\
  *Symbolic AI methods for systems biology*
   <br><br>
-* 🇫🇷 **Élisabeth Rémy** (CNRS/I2M, Marseille, France)\
+* 🇫🇷 **Dr. Élisabeth Rémy** (CNRS/I2M, Marseille, France)\
   *Mathematical modeling for systems biology*
   <br><br>
-* 🇰🇷 **Dongkwan Shin** (National Cancer Center, South Korea; coPI of ANR-NRF REPAIRNET project)\
+* 🇰🇷 **Prof. Dongkwan Shin** (National Cancer Center, South Korea; coPI of ANR-NRF REPAIRNET project)\
   *Dynamic modeling of cancer cells*
   <br><br>
-* 🇰🇷 **Kwang-Hyun Cho** (KAIST, South Korea)\
-  *Engineering methods for systems biology of cancer*
+* 🇰🇷 **Prof. Jung-Min Yang** (School of Electronics Engineering, Kyungpook National University, South Korea)\
+  *Robust open-loop control for biological systems with logical models*\
+  <br>
+* 🇰🇷 **Mr. Corbin Hopper** (Department of Bio and Brain Engineering, KAIST, South Korea)\
+  *Thermodynamics of cell fate transitions*\
+  <br>
+* 🇰🇷 **Mr. Hyunsoo Yeo** (Department of Bio and Brain Engineering, KAIST, South Korea)\
+  *Quantifying influence propagation of input node for cell fate control of mutated biological networks*\
+  <br>
+* 🇰🇷 **Prof. Kwang-Hyun Cho** (Department of Bio and Brain Engineering, KAIST, South Korea)\
+  *Reversion of cancer and aging: A reverse control problem*
   <br><br>
 * 🇪🇺 **Tomasz Wierzbowsk** ([EURAXESS Korea](http://korea.euraxess.org/))\
   *European funding schemes*\
