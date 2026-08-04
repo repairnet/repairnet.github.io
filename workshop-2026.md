@@ -19,7 +19,15 @@ The program consists both in scientific talks related to mathematical and comput
 
 The workshop will take place on Thursday 29 October 2026, from 9am to 4pm at the French Embassy in Seoul.
 
-Confirmed speakers:
+The program will consists in
+* Invited talks related to computational methods in systems biology, with a focus on logical models
+* Invited talks related to EU and international funding schemes
+* Matchmaking session, including short introduction of each participant.
+
+Final program to be published soon.
+
+### Confirmed speakers
+
 * 🇫🇷 **Dr. Laurence Calzone** (Institut Curie, Paris, Frace)\
   *Systems biology of cancer*
   <br><br>
@@ -53,7 +61,6 @@ Confirmed speakers:
 * **CNRS** Office for Japan, South Korea & Taiwan\
   *France - North-East Asia cooperation programs*
 
-Final program to be published soon.
 
 ### Venue
 
