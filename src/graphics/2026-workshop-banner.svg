@@ -3,16 +3,16 @@
 
 <svg
    width="1200"
-   height="627"
-   viewBox="0 0 317.49999 165.89375"
+   height="630"
+   viewBox="0 0 317.49999 166.6875"
    version="1.1"
    id="svg1"
    xml:space="preserve"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="2026-workshop-banner.svg"
-   inkscape:export-filename="/tmp/workshop.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-filename="/tmp/workshop-large.png"
+   inkscape:export-xdpi="250"
+   inkscape:export-ydpi="250"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -35,7 +35,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g22"
+     inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#ffffffff" /><defs
      id="defs1"><marker
        style="overflow:visible"
@@ -166,7 +166,7 @@
    style="font-weight:bold"
    id="tspan1">Thursday 29 october 2026</tspan> @ French Embassy, Seoul</tspan></text><g
        id="g22"
-       transform="matrix(0.86260546,0,0,0.86260546,-5.6967556,5.6142457)"
+       transform="matrix(0.86260546,0,0,0.86260546,-5.6967556,7.2017458)"
        style="stroke-width:1.15928"><image
          preserveAspectRatio="none"
          inkscape:svg-dpi="200"
@@ -280,7 +280,7 @@
        id="a21"
        xlink:href="https://repairnet.github.io/workshop-2026.html"
        target="_blank"
-       transform="translate(-32.61893,2.6458334)"><text
+       transform="translate(-32.61893,4.7625002)"><text
          xml:space="preserve"
          style="font-size:7.05556px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583"
          x="42.611042"
