@@ -1,6 +1,7 @@
 ---
 layout: page
 title: French-Korean Systems Biology Workshop, 1st edition
+meta_image: /img/workshop-2026-large.png
 ---
 
 📅 Date: **Thursday 29 october 2026**, from 9am to 4pm
