@@ -1,8 +1,8 @@
 ---
 layout: page
-title: French-Korean Systems Biology Workshop, 1st edition
-image: /img/workshop-2026-large.png
-description: The workshop aims at making connections between the French and Korean scientific communities in mathematical and computational methods for systems biology, with applications to cancer research. The workshop takes place on Thursday 29 october 2026 at the French Embassy in Seoul.
+title: French-Korean Systems Biology Workshop 2026
+image: /img/workshop-2026-1200.png
+description: Making connections between the French and Korean scientific communities in mathematical and computational methods for systems biology, with applications to cancer research. On Thursday 29 october 2026 at the French Embassy in Seoul.
 ---
 
 📅 Date: **Thursday 29 october 2026**, from 9am to 4pm
