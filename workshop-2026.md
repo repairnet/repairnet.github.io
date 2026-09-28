@@ -9,7 +9,7 @@ description: Making connections between the French and Korean scientific communi
 
 📍 Location: French Embassy, Seoul
 
-✍️ Registration (free but mandatory and *before Oct 10*): [registration form](https://framaforms.org/french-korean-systems-biology-workshop-1st-edition-1781879123) (open).
+✍️ Registration (free but mandatory and *before Oct 20*): [registration form](https://framaforms.org/french-korean-systems-biology-workshop-1st-edition-1781879123) (open).
 
 ### Scope and objectives
 
