@@ -30,7 +30,7 @@ Final program to be published soon.
 
 ### Confirmed speakers
 
-* 🇫🇷 **Dr. Laurence Calzone** (Institut Curie, Paris, Frace)\
+* 🇫🇷 **Dr. Laurence Calzone** (Institut Curie, Paris, Frnace)\
   *Systems biology of cancer*
   <br><br>
 * 🇫🇷 **Dr. Loïc Paulevé** (CNRS/LaBRI, Bordeaux, France; coPI of ANR-NRF REPAIRNET project)\
