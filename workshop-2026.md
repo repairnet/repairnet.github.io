@@ -40,10 +40,10 @@ Final program to be published soon.
   *Mathematical modeling for systems biology*
   <br><br>
 * 🇰🇷 **Dr. Dongkwan Shin** (National Cancer Center, South Korea; coPI of ANR-NRF REPAIRNET project)\
-  *Dynamic modeling of cancer cells*
+  *Targeting cell-state transitions across the colorectal cancer landscape*
   <br><br>
 * 🇰🇷 **Dr. Jonghyun Lee** (Division of Cancer Data Science, National Cancer Center, South Korea)  
-  *Single-cell genotype–phenotype mapping of cancer cell-fate trajectories*
+  *Expressed-variant subclones and transcriptional cell states in colorectal cancer and precancerous lesions*
   <br><br>  
 * 🇰🇷 **Prof. Jung-Min Yang** (School of Electronics Engineering, Kyungpook National University, South Korea)\
   *Robust open-loop control for biological systems with logical models*\
