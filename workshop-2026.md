@@ -26,7 +26,7 @@ The program consists both in scientific talks related to mathematical and comput
 | 10:20-10:35 | ☕ *Coffee Break* |
 | 10:35-12:05 | **Session 1 — Computational and Mathematical Models for Cancer Systems Biology** <br> *(15min talks + Q&A)*|
 |   | 🇰🇷 **Dr. Dongkwan Shin** (National Cancer Center, South Korea; coPI of ANR-NRF REPAIRNET project) <br> *Targeting cell-state transitions across the colorectal cancer landscape* |
-|   | 🇫🇷 **Dr. Élisabeth Rémy** (CNRS/I2M, Marseille, France) <br> *Mathematical modeling for systems biology, application to leukemia* |
+|   | 🇫🇷 **Dr. Élisabeth Rémy** (CNRS/I2M, Marseille, France) <br> *Mathematical modeling for systems biology, application to resistance in Leukemia* |
 |   | 🇰🇷 **Dr. Jonghyun Lee** (Division of Cancer Data Science, National Cancer Center, South Korea) <br> *Expressed-variant subclones and transcriptional cell states in colorectal cancer and precancerous lesions* |
 |   | 🇫🇷 **Dr. Emmanuel Barillot** (Institut Curie, Paris, France) <br> *AI and multimodal models of cancer* |
 |   | 🇰🇷 **Mr. Hyunsoo Yeo** (Department of Bio and Brain Engineering, KAIST, South Korea) <br> *Quantifying influence propagation of input node for cell fate control of mutated biological networks* |
