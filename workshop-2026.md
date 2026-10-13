@@ -50,8 +50,8 @@ Final program to be published soon.
 | 14:45 – 15:00 | ☕ *Coffee Break* |
 | 15:00 - 16:00 | **Session 3 — Funding Schemes for International Research** |
 |   | **French Embassy in South Korea** <br> *Actions for scientific cooperation* |
-|   | **CNRS Office for Japan, South Korea & Taiwan** <br> *France – North-East Asia cooperation programs*
-|   | **EURAXESS Korea** with Tomasz Wierzbowski <br> *European funding schemes*
+|   | **CNRS Office for Japan, South Korea & Taiwan** with Mr. Alban Belloir <br> *France – North-East Asia cooperation programs*
+|   | **EURAXESS Korea** with Mr. Tomasz Wierzbowski <br> *European funding schemes*
 |   | **Open Discussion**
 | 16:00 | Closing remarks |
 
