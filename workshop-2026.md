@@ -17,51 +17,45 @@ The workshop aims at making connections between the French and Korean scientific
 
 The program consists both in scientific talks related to mathematical and computational models in systems biology, with a focus on logical models for cancer research, as well as in presentations of international funding schemes to promote French-Korean scientific cooperation in this domain.
 
-### Program overview
+### Overview
 
 The workshop will take place on Thursday 29 October 2026, from 9am to 4pm at the French Embassy in Seoul.
 
 The program will consists in
 * Invited talks related to computational methods in systems biology, with a focus on logical models
 * Invited talks related to EU and international funding schemes
-* Matchmaking session, including short introduction of each participant.
+* Matchmaking, including short introduction of each participant.
 
 Final program to be published soon.
 
-### Confirmed speakers
+### Program
 
-* 🇫🇷 **Dr. Laurence Calzone** (Institut Curie, Paris, Frnace)\
-  *Systems biology of cancer*
-  <br><br>
-* 🇫🇷 **Dr. Loïc Paulevé** (CNRS/LaBRI, Bordeaux, France; coPI of ANR-NRF REPAIRNET project)\
- *Symbolic AI methods for systems biology*
-  <br><br>
-* 🇫🇷 **Dr. Élisabeth Rémy** (CNRS/I2M, Marseille, France)\
-  *Mathematical modeling for systems biology*
-  <br><br>
-* 🇰🇷 **Dr. Dongkwan Shin** (National Cancer Center, South Korea; coPI of ANR-NRF REPAIRNET project)\
-  *Targeting cell-state transitions across the colorectal cancer landscape*
-  <br><br>
-* 🇰🇷 **Dr. Jonghyun Lee** (Division of Cancer Data Science, National Cancer Center, South Korea)  
-  *Expressed-variant subclones and transcriptional cell states in colorectal cancer and precancerous lesions*
-  <br><br>  
-* 🇰🇷 **Prof. Jung-Min Yang** (School of Electronics Engineering, Kyungpook National University, South Korea)\
-  *Robust open-loop control for biological systems with logical models*\
-  <br>
-* 🇰🇷 **Mr. Corbin Hopper** (Department of Bio and Brain Engineering, KAIST, South Korea)\
-  *Thermodynamics of cell fate transitions*\
-  <br>
-* 🇰🇷 **Mr. Hyunsoo Yeo** (Department of Bio and Brain Engineering, KAIST, South Korea)\
-  *Quantifying influence propagation of input node for cell fate control of mutated biological networks*\
-  <br>
-* 🇰🇷 **Prof. Kwang-Hyun Cho** (Department of Bio and Brain Engineering, KAIST, South Korea)\
-  *Reversion of cancer and aging: A reverse control problem*
-  <br><br>
-* 🇪🇺 **Tomasz Wierzbowsk** ([EURAXESS Korea](http://korea.euraxess.org/))\
-  *European funding schemes*\
-  <br>
-* **CNRS** Office for Japan, South Korea & Taiwan\
-  *France - North-East Asia cooperation programs*
+| Time | Session |
+| --- | --- |
+| 9:30-9:50 | **Opening Remarks**, with introduction of participants |
+| 9:50–10:20 | **Plenary Talk I** <br> 🇫🇷 **Dr. Loïc Paulevé** (CNRS/LaBRI, Bordeaux, France; coPI of ANR-NRF REPAIRNET project)<br> *Symbolic AI methods for systems biology* |
+| 10:20–10:35 | ☕ *Coffee Break* |
+| 10:35-12:05 | **Session 1 — Computational and Mathematical Models for Cancer Systems Biology** <br> *(15min talks + Q&A)*|
+|   | 🇰🇷 **Dr. Dongkwan Shin** (National Cancer Center, South Korea; coPI of ANR-NRF REPAIRNET project) <br> *Targeting cell-state transitions across the colorectal cancer landscape* |
+|   | 🇫🇷 **Dr. Élisabeth Rémy** (CNRS/I2M, Marseille, France) <br> *Mathematical modeling for systems biology, application to leukemia* |
+|   | 🇰🇷 **Dr. Jonghyun Lee** (Division of Cancer Data Science, National Cancer Center, South Korea) <br> *Expressed-variant subclones and transcriptional cell states in colorectal cancer and precancerous lesions* |
+|   | 🇫🇷 **Dr. Emmanuel Barillot** (Institut Curie, Paris, France) <br> *AI and multimodal models of cancer* |
+|   | 🇰🇷 **Mr. Hyunsoo Yeo** (Department of Bio and Brain Engineering, KAIST, South Korea) <br> *Quantifying influence propagation of input node for cell fate control of mutated biological networks* |
+|   |    |
+| 12:05–13:20  | 🍽️ Lunch |
+|   |    |
+| 13:20–13:50 | **Plenary Talk II** <br> 🇰🇷 **Prof. Kwang-Hyun Cho** (Department of Bio and Brain Engineering, KAIST, South Korea)<br> *Reversion of cancer and aging: A reverse control problem* |
+| 13:50-14:45 | **Session 2 — Cell Fate Control and Transitions**<br> *(15min talks + Q&A)* |
+|   | 🇫🇷 **Dr. Laurence Calzone** (Institut Curie, Paris, France) <br> *Logical and multiscale modeling for cancer* |
+|   | 🇰🇷 **Prof. Jung-Min Yang** (School of Electronics Engineering, Kyungpook National University, South Korea) <br> *Robust open-loop control for biological systems with logical models* |
+|   | 🇰🇷 **Mr. Corbin Hopper** (Department of Bio and Brain Engineering, KAIST, South Korea) <br> *Thermodynamics of cell fate transitions*
+| 14:45 – 15:00 | ☕ *Coffee Break* |
+| 15:00 - 16:00 | **Session 3 — Funding Schemes for International Research** |
+|   | **French Embassy in South Korea** <br> *Actions for scientific cooperation* |
+|   | **CNRS Office for Japan, South Korea & Taiwan** <br> *France – North-East Asia cooperation programs*
+|   | **EURAXESS Korea** with Tomasz Wierzbowski <br> *European funding schemes*
+|   | **Open Discussion**
+| 16:00 | Closing remarks |
 
 
 ### Venue
