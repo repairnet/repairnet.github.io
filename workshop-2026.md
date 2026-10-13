@@ -41,9 +41,7 @@ Final program to be published soon.
 |   | 🇰🇷 **Dr. Jonghyun Lee** (Division of Cancer Data Science, National Cancer Center, South Korea) <br> *Expressed-variant subclones and transcriptional cell states in colorectal cancer and precancerous lesions* |
 |   | 🇫🇷 **Dr. Emmanuel Barillot** (Institut Curie, Paris, France) <br> *AI and multimodal models of cancer* |
 |   | 🇰🇷 **Mr. Hyunsoo Yeo** (Department of Bio and Brain Engineering, KAIST, South Korea) <br> *Quantifying influence propagation of input node for cell fate control of mutated biological networks* |
-|   |    |
-| 12:05–13:20  | 🍽️ Lunch |
-|   |    |
+| 12:05–13:20  | <br> 🍽️ Lunch <br> <br> |
 | 13:20–13:50 | **Plenary Talk II** <br> 🇰🇷 **Prof. Kwang-Hyun Cho** (Department of Bio and Brain Engineering, KAIST, South Korea)<br> *Reversion of cancer and aging: A reverse control problem* |
 | 13:50-14:45 | **Session 2 — Cell Fate Control and Transitions**<br> *(15min talks + Q&A)* |
 |   | 🇫🇷 **Dr. Laurence Calzone** (Institut Curie, Paris, France) <br> *Logical and multiscale modeling for cancer* |
