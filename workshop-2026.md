@@ -17,17 +17,6 @@ The workshop aims at making connections between the French and Korean scientific
 
 The program consists both in scientific talks related to mathematical and computational models in systems biology, with a focus on logical models for cancer research, as well as in presentations of international funding schemes to promote French-Korean scientific cooperation in this domain.
 
-### Overview
-
-The workshop will take place on Thursday 29 October 2026, from 9am to 4pm at the French Embassy in Seoul.
-
-The program will consists in
-* Invited talks related to computational methods in systems biology, with a focus on logical models
-* Invited talks related to EU and international funding schemes
-* Matchmaking, including short introduction of each participant.
-
-Final program to be published soon.
-
 ### Program
 
 | Time | Session |
