@@ -38,7 +38,7 @@ The program consists both in scientific talks related to mathematical and comput
 |   | 🇰🇷 **Mr. Corbin Hopper** (Department of Bio and Brain Engineering, KAIST, South Korea) <br> *Inferring irreversibility of cell fate transitions from transcriptomic data*
 | 14:45-15:00 | ☕ *Coffee Break* |
 | 15:00-16:00 | **Session 3 — Funding Schemes for International Research** |
-|   | **French Embassy in South Korea** <br> *Actions for scientific cooperation* |
+|   | **French Embassy in South Korea** with Inès Leonet <br> *Actions for scientific cooperation* |
 |   | **CNRS Office for Japan, South Korea & Taiwan** with Mr. Alban Belloir <br> *France – North-East Asia cooperation programs*
 |   | **EURAXESS Korea** with Mr. Tomasz Wierzbowski <br> *European funding schemes*
 |   | **Open Discussion**
