@@ -35,7 +35,7 @@ The program consists both in scientific talks related to mathematical and comput
 | 13:50-14:45 | **Session 2 — Cell Fate Control and Transitions**<br> *(15min talks + Q&A)* |
 |   | 🇫🇷 **Dr. Laurence Calzone** (Institut Curie, Paris, France) <br> *Logical and multiscale modeling for cancer* |
 |   | 🇰🇷 **Prof. Jung-Min Yang** (School of Electronics Engineering, Kyungpook National University, South Korea) <br> *Robust open-loop control for biological systems with logical models* |
-|   | 🇰🇷 **Mr. Corbin Hopper** (Department of Bio and Brain Engineering, KAIST, South Korea) <br> *Thermodynamics of cell fate transitions*
+|   | 🇰🇷 **Mr. Corbin Hopper** (Department of Bio and Brain Engineering, KAIST, South Korea) <br> *Inferring irreversibility of cell fate transitions from transcriptomic data*
 | 14:45-15:00 | ☕ *Coffee Break* |
 | 15:00-16:00 | **Session 3 — Funding Schemes for International Research** |
 |   | **French Embassy in South Korea** <br> *Actions for scientific cooperation* |
