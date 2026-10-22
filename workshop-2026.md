@@ -21,7 +21,7 @@ The program consists both in scientific talks related to mathematical and comput
 
 | Time | Session |
 | --- | --- |
-| 9:30-9:50 | **Opening Remarks**, with introduction of participants |
+| 9:30-9:50 | **Opening Remarks**, with introduction of participants <br> Loïc Paulevé (CNRS/LaBRI), Dongkwan Shin (NCC), Sébastien Codina (French Embassy) |
 | 9:50-10:20 | **Plenary Talk I** <br> 🇫🇷 **Dr. Loïc Paulevé** (CNRS/LaBRI, Bordeaux, France; coPI of ANR-NRF REPAIRNET project)<br> *Symbolic AI methods for systems biology* |
 | 10:20-10:35 | ☕ *Coffee Break* |
 | 10:35-12:05 | **Session 1 — Computational and Mathematical Models for Cancer Systems Biology** <br> *(15min talks + Q&A)*|
