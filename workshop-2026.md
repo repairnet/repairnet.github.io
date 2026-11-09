@@ -17,6 +17,10 @@ The workshop aims at making connections between the French and Korean scientific
 
 The program consists both in scientific talks related to mathematical and computational models in systems biology, with a focus on logical models for cancer research, as well as in presentations of international funding schemes to promote French-Korean scientific cooperation in this domain.
 
+
+![](img/group2026.jpg)
+
+
 ### Program
 
 | Time | Session |
